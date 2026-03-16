@@ -11,7 +11,7 @@ Hype repels skeptical buyers. Specificity converts them.
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/sales-copy-cleaner.git ~/.claude/skills/sales-copy-cleaner
+git clone https://github.com/Tecnophille/sales-copy-cleaner.git ~/.claude/skills/sales-copy-cleaner
 ```
 
 ### Manual
